@@ -1,2 +1,2 @@
-# Insertion-Sort-Projesi
+# Projeler
 www.patika.dev
